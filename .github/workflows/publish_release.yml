@@ -1,7 +1,9 @@
-name: "Publish release"
+name: "Merge release"
 on:
-  release:
-    types: [published]
+  pull_request:
+    types: [closed]
+    branches:
+      - release
 
 jobs:
   build:
