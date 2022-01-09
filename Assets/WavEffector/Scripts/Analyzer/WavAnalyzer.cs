@@ -1,4 +1,4 @@
-namespace WaveAnalyzer.Analyzer
+namespace WavEffector.Analyzer
 {
     public static class WavAnalyzer
     {

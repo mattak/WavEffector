@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace WaveAnalyzer.UI
+namespace WavEffector.UI
 {
     public class SequenceLineRenderer : MonoBehaviour, IMusicRender
     {

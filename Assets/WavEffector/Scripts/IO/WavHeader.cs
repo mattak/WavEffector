@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace WaveAnalyzer
+namespace WavEffector.IO
 {
     public struct WavHeader
     {

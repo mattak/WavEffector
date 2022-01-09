@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace WaveAnalyzer.UI
+namespace WavEffector.UI
 {
     public class SpectrumLineRenderer : MonoBehaviour, IMusicRender
     {

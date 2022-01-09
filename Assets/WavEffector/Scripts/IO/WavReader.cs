@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace WaveAnalyzer
+namespace WavEffector.IO
 {
     public static class WavReader
     {

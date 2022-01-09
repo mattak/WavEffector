@@ -1,8 +1,8 @@
 using System;
 using UnityEngine;
-using WaveAnalyzer.Analyzer;
+using WavEffector.Analyzer;
 
-namespace WaveAnalyzer.UI
+namespace WavEffector.UI
 {
     public class VolumeRotationRenderer : MonoBehaviour, IMusicRender
     {

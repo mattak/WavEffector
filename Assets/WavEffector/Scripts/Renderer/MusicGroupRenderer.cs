@@ -2,7 +2,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace WaveAnalyzer.UI
+namespace WavEffector.UI
 {
     public class MusicGroupRenderer : MonoBehaviour
     {
