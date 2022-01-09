@@ -1,0 +1,13 @@
+{
+  "name": "me.mattak.waveffector",
+  "displayName": "WavEffector",
+  "version": "0.0.1",
+  "unity": "2020.1",
+  "description": "Audio effect visualizing utility",
+  "license": "MIT",
+  "author": {
+    "name": "Takuma Maruyama"
+  },
+  "dependencies": {
+  }
+}
