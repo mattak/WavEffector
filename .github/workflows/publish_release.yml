@@ -14,7 +14,7 @@ jobs:
       - name: Install dependencies
         working-directory: Assets/WavEffector
         run: |
-          npm install -g --save-dev commitinit
+          npm install -g --save-dev commitlint
           npm install -g --save-dev husky
 
       - name: Release
